@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ederfleming@gmail.com)](mailto:ullyolima@gmail.com)
 
 ### Hi there 👋 
-### Welcome to my profile
-
 
 I'm Ully Lima and I'm a front-end developer based in Salvador, Bahia, Brazil.
 
