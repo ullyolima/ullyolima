@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 I'm Ully Lima and I'm a front-end developer based in Salvador, Bahia, Brazil.
 
-- [x] :computer: I currently looking for a job.
-- [x] :books: I am currently studying:
+- [x] :computer: I'm currently looking for a job.
+- [x] :books: I'm currently studying:
     - :orange_heart: HTML
     - :blue_heart: CSS
     - :yellow_heart: JavaScript
