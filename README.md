@@ -28,4 +28,3 @@ I'm Ully Lima and I'm a front-end developer based in Salvador, Bahia, Brazil.
     - :blue_heart: CSS
     - :yellow_heart: JavaScript
     - :atom_symbol: :computer: React
-    - :green_circle:  NodeJS 
