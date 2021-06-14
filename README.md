@@ -22,9 +22,8 @@ Here are some ideas to get you started:
 
 I'm Ully Lima and I'm a front-end developer based in Salvador, Bahia, Brazil.
 
-- [x] :computer: I'm currently looking for a job.
 - [x] :books: I'm currently studying:
-    - :orange_heart: HTML
-    - :blue_heart: CSS
-    - :yellow_heart: JavaScript
-    - :atom_symbol: :computer: React
+    - :orange_heart: Java
+    - :blue_heart: Spring Boot
+    - :yellow_heart: AWS
+    - :computer: Cybersecurity
