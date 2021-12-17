@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 
 
-I'm Ully Lima and I'm a front-end developer based in Salvador, Bahia, Brazil.
+I'm Ully Lima and I'm a back-end developer based in Salvador, Bahia, Brazil.
 
 - [x] :books: I'm currently studying:
     - :orange_heart: Java
